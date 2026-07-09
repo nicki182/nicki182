@@ -41,5 +41,5 @@ I am a Full-Stack Developer with experience delivering scalable web applications
 
 ---
 <p align="center">
-  <i>"Passionate about clean architecture, building maintainable code, and optimization."</i>
+  <i>"I love coding and I want to share that 😄."</i>
 </p>
