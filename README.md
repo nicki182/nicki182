@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer | Open Source Maintainer | Mentor
 
-🇦🇷 Originally from Argentina, currently based in Israel 🇮🇱. 
+🇦🇷 Originally from Argentina
 
-I am a Full-Stack Developer with experience delivering scalable web applications using modern technologies. I thrive in multicultural environments, collaborating with global teams, and I'm deeply passionate about clean architecture, maintainable code, and performance optimization. I'm also a strong communicator, team player, and mentor committed to continuous learning.
+I am a Full-Stack Developer with experience delivering scalable web applications using modern technologies. 
 
 ---
 
