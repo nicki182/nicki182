@@ -19,9 +19,6 @@ I am a Full-Stack Developer with experience delivering scalable web applications
 ### 💼 Open source projects
 
 🚀 **Front-End Developer & Maintainer** @ [activist.org](https://github.com/activist-org) *(Present)*
-- Maintaining and improving front-end architecture for a large-scale open-source project.
-- Contributing code, reviewing pull requests, and collaborating openly with the global community.
-- 
 ---
 
 ### 📫 Let's Connect!
